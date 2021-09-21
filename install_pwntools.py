@@ -5,5 +5,5 @@ from pwn import*
 p = process('./a.out')
 
 #server connection
-p = remote('ctf.j09nhyun.xyz',3000)
+p = remote('server address',number)
 
