@@ -1,4 +1,3 @@
-                                                                                            
 Dump of assembler code for function main:                                                                            
 0x0000000000400636 <+0>:     push   rbp                                                                            
 0x0000000000400637 <+1>:     mov    rbp,rsp                                                                        
